@@ -12,6 +12,7 @@ An end-to-end data analytics project analyzing real job postings to identify ski
 * Excel skill demand analysis
 
 ---
+Dataset not included due to size. Place `job_data.csv` inside /data folder before running.
 
 ## 📊 Key Insights
 
