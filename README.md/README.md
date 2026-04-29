@@ -1,6 +1,7 @@
 # 📊 AI Job Market Analyzer (12,894 Jobs)
 
 An end-to-end data analytics project analyzing real job postings to identify skill demand and match resumes to job descriptions.
+Built on 12,894 real job postings to analyze skill demand and optimize resumes using NLP, SQL, and BI tools.
 
 ---
 
